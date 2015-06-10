@@ -1,4 +1,9 @@
-header {
-	height: 135px;
-	background-color: red;
+.wrapper {
+	width: 960px;
+	margin: 0 auto;
+}
+
+.header {
+	height: 120px;
+	background-color: blue;
 }
