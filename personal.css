@@ -72,3 +72,15 @@
 	width: 200px;
 	margin: 20px
 }
+
+.interests_columns {
+	width: 250px;
+	float: left;
+	margin-right: 60px;
+
+}
+
+.interests_columns img {
+	width: 250px;
+}
+
