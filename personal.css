@@ -86,8 +86,8 @@
 
 }
 
-.interests_columns img {
-	width: 250px;
+.interests_columns i {
+	font-size: 12em;
 }
 
 footer p {
