@@ -80,7 +80,6 @@
 
 .interests_columns i {
 	font-size: 12em;
-	color: red;
 }
 
 footer p {
@@ -105,6 +104,18 @@ footer p {
 
 .link_wrapper i {
 	float: left;
+}
+
+#gaming {
+	color:#00FF33;
+}
+
+#programming {
+	color:#6600CC;
+}
+
+#tv-film {
+	color:9900FF;
 }
 
 
