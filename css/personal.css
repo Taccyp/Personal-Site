@@ -8,21 +8,12 @@
 	text-align: center;
 	vertical-align: middle;
 	line-height: 100px;
-	border-bottom: solid 1px black;
+	
 }
-
-
- .mainbody p {
- 	font-family: Tahoma,sans-serif;
- }
-
- .mainbody h1 {
- 	font-family: Tahoma,sans-serif;
- }
 
  header {
  	font-size: 90px;
- 	font-family: Georgia, serif;
+ 	;
  	
  }
 
@@ -38,11 +29,12 @@
  	font-size: 20px;
  	height: 30px;
  	font-size: 20px;
- 	border-bottom: 1px solid black;
+ 	
  }
 
  body {
  	color: black;
+ 	font-family: Quicksand;
  }
 
 .link_bar a{
@@ -60,16 +52,16 @@
 	width: 500px;
 	float: left;
 	margin: 10px;
+	margin-top: 40px;
 
 }
 
 .work_text {
 	width: 300px;
-	border-left: 1px solid black;
 	float: left;
 	margin: 10px;
 	padding: 10px;
-	height: 327px;
+	height: 450px;
 }
 
 .mainbody img {
@@ -86,8 +78,9 @@
 
 }
 
-.interests_columns img {
-	width: 250px;
+.interests_columns i {
+	font-size: 12em;
+	color: red;
 }
 
 footer p {
@@ -101,6 +94,23 @@ footer p {
 	text-align: center;
 	
 }
+
+.twitter i {
+	color: #4099FF;
+}
+
+.facebook i{
+	color: #3B5998;
+}
+
+.link_wrapper i {
+	float: left;
+}
+
+
+
+
+
 
 
 
