@@ -34,14 +34,14 @@
 
  body {
  	color: black;
- 	font-family: Quicksand;
+ 	font-family: 'Anton', sans-serif;
  }
 
 .link_bar a{
 	color:black;
 	text-decoration: none;
 	font-size: 25px;
-	font-family: Tahoma,sans-serif;
+	font-family: 'Anton', sans-serif;
 }
 
 .link_bar a:hover{
@@ -70,12 +70,21 @@
 	margin: 20px
 }
 
+.mainbody {
+	font-family: Tahoma;
+}
+
 .interests_columns {
 	width: 250px;
 	float: left;
 	margin-right: 60px;
+	font-family: Tahoma;
 
 
+}
+
+.work_text {
+	font-family: Tahoma;
 }
 
 .interests_columns i {
@@ -85,12 +94,14 @@
 footer p {
 	clear: both;
 	border-top: 1px solid black;
+	font-family: Tahoma;
 
 }
 
 .facebook , .twitter , i {
 	font-size: 500px;
 	text-align: center;
+	margin-right: 21px;
 	
 }
 
