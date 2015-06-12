@@ -1,5 +1,5 @@
 .wrapper {
-	width: 960px;
+	width: 1140px;
 	margin: 0 auto;
 }
 
@@ -13,7 +13,8 @@
 
  header {
  	font-size: 90px;
- 	;
+ 	background-color: black;
+ 	color: #FF0000;
  	
  }
 
@@ -37,11 +38,15 @@
  	font-family: 'Anton', sans-serif;
  }
 
+ h1 {
+ 	font-family: 'Open Sans', sans-serif;
+ }
+
 .link_bar a{
 	color:black;
 	text-decoration: none;
 	font-size: 25px;
-	font-family: 'Anton', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 }
 
 .link_bar a:hover{
@@ -52,7 +57,7 @@
 	width: 500px;
 	float: left;
 	margin: 10px;
-	margin-top: 40px;
+	margin-top: 80px;
 
 }
 
@@ -71,24 +76,28 @@
 }
 
 .mainbody {
-	font-family: Tahoma;
+	font-family: 'Open Sans', sans-serif;
 }
 
 .interests_columns {
 	width: 250px;
 	float: left;
-	margin-right: 60px;
-	font-family: Tahoma;
-
-
+	margin-right: 85px;
+	font-family: 'Open Sans', sans-serif;
 }
 
+#last {
+	margin-right: 0;
+}
+
+
 .work_text {
-	font-family: Tahoma;
+	font-family: 'Open Sans', sans-serif;
 }
 
 .interests_columns i {
 	font-size: 12em;
+	color: red;
 }
 
 footer p {
@@ -101,7 +110,7 @@ footer p {
 .facebook , .twitter , i {
 	font-size: 500px;
 	text-align: center;
-	margin-right: 21px;
+	margin-right: 20px;
 	
 }
 
@@ -113,20 +122,23 @@ footer p {
 	color: #3B5998;
 }
 
+.link_wrapper {
+	width: 960px;
+	margin:0 auto;
+}
+
 .link_wrapper i {
 	float: left;
 }
 
-#gaming {
-	color:#00FF33;
+#work_content {
+	margin: 0 auto;
+	width: 960px;
 }
 
-#programming {
-	color:#6600CC;
-}
-
-#tv-film {
-	color:#9900FF;
+#interest_content {
+	width: 960px;
+	margin: 0 auto;
 }
 
 
